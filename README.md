@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @iwaltgen
-- 👀 I’m interested in Go
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on CRDT
-- 📫 How to reach me iwaltgen@gmail.com
+I'm a software engineer specializing in backend development and distributed systems.
+
+I love learning, sharing, and facing challenges. and I'm also an open source enthusiast.
+
+Main interests:
+- Clean code ✨
+- Reliability ⛓
+- Performance / Scalability ⚡
+- Observability 👀
+
+Languages: Go, Java
+
 
 <!---
 iwaltgen/iwaltgen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
