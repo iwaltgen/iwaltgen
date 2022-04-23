@@ -1,11 +1,10 @@
 I'm a software engineer specializing in backend development and distributed systems.
 
-I love learning, sharing, and facing challenges. and I'm also an open source enthusiast.
+I love learning, sharing, and facing challenges. and I'm also an open-source enthusiast.
 
 Main interests:
 - Clean code ✨
-- Reliability ⛓
-- Performance / Scalability ⚡
+- Reliability / Performance / Scalability / Resilience ⚡
 - Observability 👀
 
 Languages: Go, Java
