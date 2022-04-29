@@ -1,4 +1,4 @@
-I'm a software engineer specializing in backend development and distributed systems.
+I'm a software engineer in backend development and distributed systems.
 
 I love learning, sharing, and facing challenges. and I'm also an open-source enthusiast.
 
